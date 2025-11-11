@@ -98,4 +98,4 @@ Attrition by Years at Company : Highest in early service years (1–2 years).
 
 Attrition by Rating : Sales Executives and Lab Technicians show the highest attrition.
 
-Screenshot of the Dashbord : 
+Screenshot of the Dashbord : https://github.com/rajjain-14/HR-Attrition-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
