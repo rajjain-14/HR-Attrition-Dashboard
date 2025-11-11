@@ -6,8 +6,7 @@ Objective :
 The main aim of this dashboard is to study the Employee attrition (people leaving the company) and understand which factors affect it the most. The dashboard helps to identify patterns and causes of attrition using data visualization.
 
 Data Source : 
-This dataset contains detailed employee records from an organization, including departments, job roles, income, satisfaction, and attrition status.
-It is used to analyze the key factors influencing employee turnover and workforce trends. 
+This dataset contains detailed employee records from an organization, including departments, job roles, income, satisfaction, and attrition status. It is used to analyze the key factors influencing employee turnover and workforce trends.
 Dataset - HR-Employee-Attrition
 Source - Kaggle
 
